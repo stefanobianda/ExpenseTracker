@@ -24,7 +24,8 @@ void main() {
         ),
         textTheme: ThemeData().textTheme.copyWith(
               titleLarge: const TextStyle(
-                fontWeight: FontWeight.normal,
+                color: Color.fromARGB(255, 29, 15, 137),
+                fontWeight: FontWeight.bold,
                 fontSize: 14,
               ),
             ),
